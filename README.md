@@ -1,0 +1,1 @@
+Este proyecto analiza cómo factores no antropogénicos (como temperatura, humedad, vientos y fenómenos naturales) impactan los niveles de contaminación del aire. Usando técnicas de análisis estadístico y machine learning, buscamos entender qué variables tienen mayor influencia y cómo estos patrones pueden ayudar a predecir episodios críticos de contaminación.
