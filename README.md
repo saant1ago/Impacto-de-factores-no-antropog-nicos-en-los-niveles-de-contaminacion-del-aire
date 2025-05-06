@@ -63,5 +63,5 @@ MIT
 ## 📬 Contacto
 
 - Santiago Juárez Roaro  
-- [Tu correo o LinkedIn aquí]  
+- [santiagoj2454@gmail.com]  
 - [GitHub: https://github.com/saant1ago]
