@@ -44,9 +44,9 @@ Este proyecto analiza cómo factores no antropogénicos (como temperatura, humed
 - Desarrollar modelos predictivos para episodios de alta contaminación.
 - Visualizar patrones y resultados de forma clara y comprensible.
 
-## ✨ Contribuciones
+## ✨ Imágenes
 
-Las contribuciones son bienvenidas. Por favor, abre un issue o haz un pull request.
+<img width="1002" alt="Image" src="https://github.com/user-attachments/assets/dfd3899d-c25e-4b10-bddc-7eebc1817b44" />
 
 ## 📄 Licencia
 
